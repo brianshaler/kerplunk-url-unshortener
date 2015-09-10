@@ -29,5 +29,6 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/brianshaler/kerplunk-url-unshortener.git"
-  }
+  },
+  "license": "MIT"
 }
