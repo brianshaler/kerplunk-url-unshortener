@@ -2,7 +2,7 @@
   "name": "kerplunk-url-unshortener",
   "displayName": "URL Unshortener",
   "description": "Tries to recursively resolve shortened links in the message field of ActivityItems whenever they're saved to the database.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "kerplunk-plugin",
     "kp:Utility"
